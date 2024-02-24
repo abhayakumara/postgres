@@ -1,0 +1,9 @@
+#Change profile to local for local testing
+spring:
+  profiles:
+    active:
+      local
+
+
+
+

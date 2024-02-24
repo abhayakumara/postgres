@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url:
+      postgres://admin:WeDL8m7VgNYK231JJaLoQEO84HG3mVDk@dpg-cncbk7ud3nmc738f082g-a/relational_database_project
+    username:
+      admin
+    password:
+      WeDL8m7VgNYK231JJaLoQEO84HG3mVDk
+
+
+
+
+
